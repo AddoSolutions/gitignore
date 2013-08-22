@@ -1,4 +1,4 @@
-.DS_STORE
+.DS_Store
 .modgit/
 app/design/install/
 index.php.sample
@@ -8,4 +8,4 @@ LICENSE.txt
 LICENSE_EE*
 media/*
 php.ini.sample
-var/
+var/*
